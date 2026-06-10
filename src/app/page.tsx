@@ -90,7 +90,7 @@ export default function LandingPage() {
       buttonAnimation="slide-up"
       mediaItems={[
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EwKdgTuzaNWGcJkgAbIAav88Gm/uploaded-1781084661260-q21twasl.jpg",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EwKdgTuzaNWGcJkgAbIAav88Gm/uploaded-1781084661260-q21twasl.jpg?_wi=1",
           imageAlt: "Dr AK Gupta at his desk",
         },
         {
@@ -126,7 +126,7 @@ export default function LandingPage() {
       description="Dr AK Gupta is a board-certified physician with 15 years of experience, specializing in comprehensive care for chronic conditions. Our patient-centered approach ensures personalized treatment plans tailored to your unique needs."
       subdescription="We prioritize clear communication, accessible care, and positive health outcomes for every patient. From diagnosis to long-term management, your health journey is our top priority."
       icon={Heart}
-      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EwKdgTuzaNWGcJkgAbIAav88Gm/uploaded-1781084661260-q21twasl.jpg"
+      imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EwKdgTuzaNWGcJkgAbIAav88Gm/uploaded-1781084661260-q21twasl.jpg?_wi=2"
       imageAlt="Dr AK Gupta smiling confidently"
       mediaAnimation="opacity"
     />
