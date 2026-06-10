@@ -77,9 +77,9 @@ export default function LandingPage() {
         {
           imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EwKdgTuzaNWGcJkgAbIAav88Gm/uploaded-1781084661260-iqehm70h.jpg",          imageAlt: "Clinic services display"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/full-shot-nurse-walking-hall_23-2148894864.jpg",          imageAlt: "Modern doctor's office during patient consultation"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EwKdgTuzaNWGcJkgAbIAav88Gm/uploaded-1781086650874-gbbn6qh0.webp",          imageAlt: "Modern doctor's office during patient consultation"},
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/laboratory-supplies-medical-work_23-2149744724.jpg",          imageAlt: "Medical laboratory with health checkup equipment"},
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3EwKdgTuzaNWGcJkgAbIAav88Gm/uploaded-1781086677031-k9ujaobu.webp",          imageAlt: "Medical laboratory with health checkup equipment"},
       ]}
     />
   </div>
